@@ -1,1 +1,1 @@
-# kaggle-tabular-playground-series-nov-2021
+# kaggle-tabular-playground-series
