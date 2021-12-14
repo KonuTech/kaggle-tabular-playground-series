@@ -6,7 +6,42 @@
 
 - Late submission scored ...
 
-
 # kaggle-tabular-playground-series-oct-2021
+
+- Late submission scored ...
+-
+# kaggle-tabular-playground-series-sep-2021
+
+- Late submission scored ...
+- 
+# kaggle-tabular-playground-series-aug-2021
+
+- Late submission scored ...
+-
+# kaggle-tabular-playground-series-jul-2021
+
+- Late submission scored ...
+-
+# kaggle-tabular-playground-series-jun-2021
+
+- Late submission scored ...
+-
+# kaggle-tabular-playground-series-may-2021
+
+- Late submission scored ...
+-
+# kaggle-tabular-playground-series-apr-2021
+
+- Late submission scored ...
+-
+# kaggle-tabular-playground-series-mar-2021
+
+- Late submission scored ...
+-
+# kaggle-tabular-playground-series-feb-2021
+
+- Late submission scored ...
+-
+# kaggle-tabular-playground-series-jan-2021
 
 - Late submission scored ...
