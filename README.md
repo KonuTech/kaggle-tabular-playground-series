@@ -4,7 +4,7 @@
 
 # kaggle-tabular-playground-series-nov-2021
 
-- Late submission scored ...
+- Late submission scored 0.70174
 
 # kaggle-tabular-playground-series-oct-2021
 
