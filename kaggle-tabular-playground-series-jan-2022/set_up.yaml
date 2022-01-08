@@ -1,0 +1,7 @@
+mkdir kaggle-tabular-playground-series-jan-2022\scripts
+mkdir kaggle-tabular-playground-series-jan-2022\inputs
+mkdir kaggle-tabular-playground-series-jan-2022\outputs
+cd kaggle-tabular-playground-series-jan-2022\inputs
+kaggle competitions download -c tabular-playground-series-jan-2022
+cd ..
+python scripts\unzip.py inputs\tabular-playground-series-jan-2022.zip

@@ -1,0 +1,30 @@
+{
+  "INPUTS": {
+    "TRAIN_PATH": [
+      "train.csv"
+    ],
+    "TEST_PATH": [
+      "test.csv"
+    ],
+    "TARGET": "num_sold",
+    "SEPARATOR": ",",
+    "DECIMAL": "TODO",
+    "ENCODING": "utf-8",
+    "FLOAT_PRECISION": "TODO",
+    "INDEX_COLUMNS": [
+      "row_id"
+    ],
+    "DATE_COLUMNS": [
+      "date"
+    ],
+    "COLUMNS_WITH_NAN_VALUES": [
+      "TODO"
+      ],
+    "DTYPE": {
+      "country": "object",
+      "store": "object",
+      "product": "object",
+      "num_sold": "int64"
+    }
+  }
+}
