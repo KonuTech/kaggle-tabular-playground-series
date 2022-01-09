@@ -1,6 +1,6 @@
 # kaggle-tabular-playground-series-jan-2022
 
-- Your submission scored 7.88964, which is not an improvement of your best score. Keep trying!
+- Your submission scored 7.06230, which is an improvement of your previous score of 7.84657. Great job!
 
 # kaggle-tabular-playground-series-dec-2021
 
